@@ -1,5 +1,5 @@
 # _Hello World_ 
-> [!NOTE}
+> [!NOTE]
 > Useful information that you should know about ZorpLorp808.
 * `My Favorite Artists`
   1. **SamboMaster**
